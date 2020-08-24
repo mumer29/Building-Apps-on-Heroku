@@ -1,4 +1,4 @@
-# Building-Apps-on-Herpku
+# Building-Apps-on-Heroku
 Heroku Tutorial Building a app
 
 # Step #:1 login on Terminal
